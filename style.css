@@ -1,0 +1,42 @@
+.sal{
+    width: 1200px;
+    height: 400px;
+    margin-left: 0%;
+    margin-left: 100px;
+    
+  }
+  h2{
+    font-size: 206px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+    background-image: conic-gradient(red 0deg,red 90deg,blue 90deg,blue 180deg,green 180deg,green 270deg,yellow 270deg,yellow 360deg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    
+  }
+  .sh{
+    width: 1200px;
+    height: 400px;
+    margin-left: 100px;
+    
+
+    
+  }
+  .lg{
+    width: 1200px;
+    height: 450px;
+    font-size: 206px;
+  
+    font-family: sans-serif;
+   
+    font-weight: bold;
+    background-image: repeating-conic-gradient(red 20deg,blue 40deg ,green 70deg,yellow 90deg,lime 110deg ,aqua 130deg ,rgb(255, 0, 212) 150deg,lightsalmon 180deg,darkorchid 200deg,fuchsia 220deg,orange 240deg,purple 260deg,orangered 280deg,indigo 300deg,magenta 320deg,olive 340deg,white 360deg,gold 380deg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+     
+     
+  }
+  
